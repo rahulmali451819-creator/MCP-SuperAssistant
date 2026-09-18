@@ -1,0 +1,6 @@
+{
+  "name": "MCP Assistant",
+  "description": "An Android application that helps interact with MCP servers for enhanced AI assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
